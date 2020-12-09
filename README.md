@@ -2,18 +2,14 @@
 <img src="assets/Udacity-Deep-Learning-Nanodegree-Program_1.svg" width="400" />
 <br />
 <h1>Udacity Deep Learning Nanodegree Program</h1>
-</div>
-
-<p align="center">
+<br />
 <img src="assets/Udacity-Deep-Learning-Nanodegree-Program_2.png" />
-</p>
-
-<p align="center">
+<br />
 <a href="https://aws.amazon.com/"><img align="center" src="assets/Udacity-Deep-Learning-Nanodegree-Program_3.svg" width="110" /></a>
 <a href="https://ai.facebook.com/"><img align="center" src="assets/Udacity-Deep-Learning-Nanodegree-Program_4.svg" width="220" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pytorch.org/"><img align="center" src="assets/Udacity-Deep-Learning-Nanodegree-Program_5.svg" width="110" /></a>
-</p>
+</div>
 
 ## Background
 
