@@ -42,7 +42,7 @@ The top 100 students from the first phase of the program went to earn a full sch
 - [Dog-Breed Classifier](https://github.com/iamrajiv/Dog-Breed-Classifier)&nbsp;<a href="https://mybinder.org/v2/gh/iamrajiv/Dog-Breed-Classifier/master"><img align="center" src="https://mybinder.org/static/logo.svg" width="100" /></a>
 - [Generate TV Scripts](https://github.com/iamrajiv/Generate-TV-Scripts)&nbsp;<a href="https://mybinder.org/v2/gh/iamrajiv/Generate-TV-Scripts/master"><img align="center" src="https://mybinder.org/static/logo.svg" width="100" /></a>
 - [Generate Faces](https://github.com/iamrajiv/Generate-Faces)&nbsp;<a href="https://mybinder.org/v2/gh/iamrajiv/Generate-Faces/master"><img align="center" src="https://mybinder.org/static/logo.svg" width="100" /></a>
-- [Deploying a Sentiment Analysis Model](https://github.com/iamrajiv/Deploying-a-Sentiment-Analysis-Model)&nbsp;<a href="https://mybinder.org/v2/gh/iamrajiv/Deploying-a-Sentiment-Analysis-Model/master"><img align="center" src="https://mybinder.org/static/logo.svg" width="100"/></a>
+- [Deploying a Sentiment Analysis Model](https://github.com/iamrajiv/Deploying-a-Sentiment-Analysis-Model)&nbsp;<a href="https://mybinder.org/v2/gh/iamrajiv/Deploying-a-Sentiment-Analysis-Model/master"><img align="center" src="https://mybinder.org/static/logo.svg" width="100" /></a>
 
 ## Udacity’s Deep Learning Nanodegree Program Completion Certificate
 
