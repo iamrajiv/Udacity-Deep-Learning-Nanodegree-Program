@@ -1,8 +1,6 @@
 <div align="center">
 <img src="assets/Udacity-Deep-Learning-Nanodegree-Program_1.svg" width="400" />
-<br />
 <h1>Udacity Deep Learning Nanodegree Program</h1>
-<br />
 <img src="assets/Udacity-Deep-Learning-Nanodegree-Program_2.png" />
 <br />
 <a href="https://aws.amazon.com/"><img align="center" src="assets/Udacity-Deep-Learning-Nanodegree-Program_3.svg" width="110" /></a>
