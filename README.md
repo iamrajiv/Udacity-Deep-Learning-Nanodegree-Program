@@ -1,6 +1,5 @@
 <div align="center">
-<img
-src="assets/Udacity-Deep-Learning-Nanodegree-Program_1.svg" width="400" />
+<img src="assets/Udacity-Deep-Learning-Nanodegree-Program_1.svg" width="400" />
 <br />
 <h1>Udacity Deep Learning Nanodegree Program</h1>
 </div>
